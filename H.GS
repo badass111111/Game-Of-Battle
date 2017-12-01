@@ -1,3 +1,4 @@
-var SimplexNoise = {
-  "noise": function () {}
+var Stats = {
+  "domElement": {},
+  "update": function () {}
 };
